@@ -3,3 +3,5 @@ site/
 requirements.txt
 docs/
 .gitignore
+.obisidian/
+
