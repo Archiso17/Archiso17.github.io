@@ -1,2 +1,5 @@
 venv/
+site/
 requirements.txt
+docs/
+.gitignore
