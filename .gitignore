@@ -1,7 +1,6 @@
 venv/
 site/
 requirements.txt
-docs/
 .gitignore
-.obisidian/
+.obsidian/
 
