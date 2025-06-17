@@ -1,6 +1,7 @@
 venv/
 site/
-requirements.txt
 .gitignore
 .obsidian/
+mkdocs.yml
+requirements.txt
 
