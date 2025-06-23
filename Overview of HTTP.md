@@ -1,14 +1,3 @@
----
-title: "Overview of HTTP - HTTP | MDN"
-source: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview"
-author:
-  - "[[MDN Web Docs]]"
-published: 2025-06-06
-created: 2025-06-23
-description: "HTTP is a protocol for fetching resources such as HTML documents.It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.A complete document is typically constructed from resources such as text content, layout instructions, images, videos, scripts, and more."
-tags:
-  - "clippings"
----
 **HTTP** is a [protocol](https://developer.mozilla.org/en-US/docs/Glossary/Protocol) for fetching resources such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. A complete document is typically constructed from resources such as text content, layout instructions, images, videos, scripts, and more.
 
 ![A single Web document composed from multiple resources from different servers.](https://mdn.github.io/shared-assets/images/diagrams/http/overview/fetching-a-page.svg)
